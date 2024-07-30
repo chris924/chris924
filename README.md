@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Krisz</h1>
-<h3 align="center">I'm currently learning software development at Codecool</h3>
-
-- 🔭 I’m currently working on [BookItNow](https://github.com/chris924/BookItNow)
-
-- 🌱 I’m currently learning **Java, Spring Boot, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chris924?tab=repositories](https://github.com/chris924?tab=repositories)
 
